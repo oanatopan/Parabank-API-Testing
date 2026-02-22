@@ -28,4 +28,3 @@ pm.environment.set("customerId", jsonData.id);
 
 ### 📌 Dependency: 
 * **Role:** Validates user credentials and initiates the session.
-*  This test extracts the `customerId` from the response, which is essential for subsequent requests that require a specific user context (e.g., account details or transfers).
