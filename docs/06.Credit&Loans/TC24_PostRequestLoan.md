@@ -1,4 +1,4 @@
-# TC24_Post_Request_Loan - Automated Loan Processing
+# TC24_Post_Request_Loan 
 
 ### 🛠 Steps:
 1. **Postman is opened** and the workspace environment is active.
