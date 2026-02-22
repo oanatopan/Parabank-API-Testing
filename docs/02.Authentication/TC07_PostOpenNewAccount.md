@@ -28,6 +28,6 @@
 
 ---
 
-### 📌 * **Dependency:
+### 📌 Dependency:
  Executes the transition from identity validation to financial action (account creation).
  Critically depends on the success of **GetLogin**. Without a valid `customerId`, the server cannot associate the new account with an existing profile, resulting in a logic or authorization error.
